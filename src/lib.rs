@@ -140,7 +140,7 @@
     rust_2018_idioms
 )]
 #![allow(clippy::type_complexity)]
-#![feature(type_alias_impl_trait, min_type_alias_impl_trait)]
+#![feature(min_type_alias_impl_trait)]
 
 const YIELD_EVERY: usize = 24;
 
